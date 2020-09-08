@@ -6,7 +6,7 @@ the columns feature:
 1. country_name
 2. year
 3. population
-4. yearly_percentage_change
+4. yearly_percentage_change(population change from previous year)
 5. median_age
 6. fertilaity_rate
 <br> 
