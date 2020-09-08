@@ -10,4 +10,4 @@ the columns feature:
 5. median_age
 6. fertilaity_rate
 <br> 
-All of the information has been saved in a Json format for easy loading and data anaylsis.
+All of the scraped information has been saved in a Json format for easy loading into pandas and is clean for quick and accurate data anaylsis.
